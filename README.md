@@ -90,7 +90,7 @@ blood cell classification in settings such as a highthrouput screening or blood 
 
 ![Alt text](https://github.com/Rami-Louati/Blood-cell-classification-with-TensorFlow/blob/main/Models_Evaluation/Image1.png)
 
-![Alt text](figures/Image2.png)
+![Alt text](https://github.com/Rami-Louati/Blood-cell-classification-with-TensorFlow/blob/main/Models_Evaluation/Image2.png)
 ## Authors
 
 - Romain Roure
