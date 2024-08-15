@@ -88,7 +88,7 @@ from a particular microscopy imaging set up. Nevertheless the models will be ver
 blood cell classification in settings such as a highthrouput screening or blood testing platform.
 
 
-![Alt text](figures/Image1.png)
+![Alt text](https://github.com/Rami-Louati/Blood-cell-classification-with-TensorFlow/blob/main/Models_Evaluation/Image1.png)
 
 ![Alt text](figures/Image2.png)
 ## Authors
